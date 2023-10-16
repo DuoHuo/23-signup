@@ -10,10 +10,10 @@
 ##个人信息包括：
 =========
 ```js
-   *姓名
-   *学院+专业
-   *联系方式（微信或者QQ）
-   *个人爱好
+   *CsCl
+   *Electronic and Information Engineering；Communication Engineering
+   *2313648584@qq
+   *Do you play GenshinImpact?
 ```
 ##git教程链接
 *http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
